@@ -6,13 +6,11 @@
 ---
 
 # Video demostrativo
-Ver video de la Infraestructura 2
+https://youtu.be/yu1O00BC6iQ
 
 ---
 
 # Índice
-
-## 📑 Índice
 
 1. [Descripción del laboratorio](#1-descripción-del-laboratorio)
 2. [Propósito del laboratorio](#2-propósito-del-laboratorio)
@@ -70,6 +68,8 @@ Los dos Alpine representan a `USUARIO-sp` (sin privilegios) y `USUARIO-cp` (con 
 que utilicé para abrir RDWeb desde un cliente gráfico y para conectarme a la VPN con Shrew Soft.
 Los Alpine me permitieron representar a los usuarios sin consumir tantos recursos del equipo. Windows 10 complementa las pruebas porque 
 permite utilizar un navegador y el cliente VPN de manera gráfica. FortiGate conecta la VLAN de usuarios con las dos redes independientes de servidores.
+
+## Diagrama
 Evidencia 01. Topología de la infraestructura
 ![Evidencia 01 - Topología de la infraestructura](Imagenes/image01.png)
 
